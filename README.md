@@ -4,8 +4,7 @@ RSS Feed Provider for Sitecore Data Exchange Framework
 This module can read any RSS feed and populate the data in sitecore.
 This module follows the pattern which is described in the example.
 http://integrationsdn.sitecore.net/DataExchangeFramework/v1.3/
-#Installation.
-#Pre-requisites
+#Installation and pre-requisites
     Step 1) Install the sitecore's "Data Exchange Framework 1.3.zip" package from location 
             https://dev.sitecore.net/Downloads/Data_Exchange_Framework/1x/Data_Exchange_Framework_1_3.aspx
     Step 2) Install the "Sitecore Provider for Data Exchange Framework 1.3.zip' from location 

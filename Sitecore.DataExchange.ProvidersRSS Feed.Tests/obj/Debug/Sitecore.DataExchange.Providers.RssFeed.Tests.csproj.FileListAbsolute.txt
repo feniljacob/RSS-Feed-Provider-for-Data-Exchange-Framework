@@ -1,0 +1,48 @@
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.DataAccess.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.Services.Core.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\NSubstitute.xml
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.core.pdb
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.pdb
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\NSubstitute.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.DataAccess.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.Services.Core.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\NSubstitute.xml
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.core.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem.Tests\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.Tests.pdb

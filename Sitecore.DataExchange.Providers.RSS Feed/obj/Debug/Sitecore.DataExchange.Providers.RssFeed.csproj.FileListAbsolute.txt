@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\Sitecore.DataExchange.Examples-master\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.FileSystem\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\RSS feed\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\RSS feed\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\bin\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\RSS feed\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.dll
+C:\Users\Administrator\Desktop\RSS feed\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.pdb
+C:\Users\Administrator\Desktop\RSS feed\Hackathon Gold copy\Sitecore.DataExchange.RssFeed\Sitecore.DataExchange.Providers.RRS Feed\obj\Debug\Sitecore.DataExchange.Providers.RssFeed.csprojResolveAssemblyReference.cache

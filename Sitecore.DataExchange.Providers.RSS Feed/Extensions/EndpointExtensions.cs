@@ -5,6 +5,7 @@ namespace Sitecore.DataExchange.Providers.RssFeed.Extensions
 {
     public static class EndpointExtensions
     {
+        public static string secretkey = "secretkey";
         public static RssFeedSettings GetTextFileSettings(this Endpoint endpoint)
         {
             return endpoint.GetPlugin<RssFeedSettings>();
